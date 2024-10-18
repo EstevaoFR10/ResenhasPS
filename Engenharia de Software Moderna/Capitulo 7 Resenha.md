@@ -1,0 +1,8 @@
+# Resenha Capitulo 7 Engenharia de Software Moderna
+
+
+O capítulo 7 explora o conceito de arquitetura em engenharia de software, desvendando sua importância na construção de sistemas robustos e escaláveis. A discussão se inicia com um paralelo intrigante: o famoso debate Tanenbaum-Torvalds sobre a estrutura ideal de sistemas operacionais, ilustrando a relevância das decisões arquiteturais.
+Em seguida, o capítulo mergulha em diferentes padrões arquiteturais, cada um com suas características, vantagens e desvantagens. A arquitetura em camadas, um clássico atemporal, é apresentada como uma solução para organizar sistemas complexos em módulos independentes. O MVC, um padrão fundamental para aplicações web, é explorado, mostrando como a separação entre model, view e controller contribui para a clareza e a manutenção do código.
+O capítulo também explora tendências modernas como microsserviços, que oferecem flexibilidade e escalabilidade ao dividir a aplicação em serviços autônomos, e arquiteturas orientadas a mensagens, que promovem a comunicação assíncrona e desacoplada entre componentes. Os padrões Publish/Subscribe também são abordados, mostrando como facilitam a comunicação entre diferentes partes do sistema de forma eficiente.
+Reconhecendo que nem tudo são flores, o capítulo dedica uma seção aos anti-padrões arquiteturais, ou seja, soluções aparentemente boas na teoria, mas que podem levar a problemas na prática. Essa análise crítica pode ajudar a evitar armadilhas comuns no design de software.
+Pode-se concluir que o capítulo 7 oferece uma visão abrangente e elucidativa sobre arquitetura de software, abordando desde conceitos básicos até padrões modernos, capacitando o leitor a tomar decisões arquiteturais mais conscientes e eficazes.
